@@ -54,3 +54,9 @@ pre-commit run --hook-stage pre-push --all-files
 
 - Pre-Commit: Black überprüft und formatiert den Python-Code automatisch.
 - Pre-Push: pytest führt die vorhandenen automatisierten Tests aus.
+
+## Deployment
+
+Die Anwendung ist auf Render deployed:
+
+https://santamarianoahlb-324.onrender.com
